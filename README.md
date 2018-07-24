@@ -7,25 +7,35 @@ Python
 ### Aula 01 - Introdução ao Python
 
 #### Conhecendo o Python 
-- Conheça um pouco sobre o Python e sua historia
+- Conheça um pouco sobre o Python 
+- Conheça a sua historia
+- Conheça empresas que usam Python
 
 #### Montando maquina usando virtualbox
-- Um pouco sobre virtualização com Virtualbox
+- Um pouco sobre virtualização 
+- Conhecendo o Virtualbox
 
 #### Programando em diversos sistemas operacionais
-- Programando no Android , Linux e Windows
+- Programando no Android 
+- Programando no Linux 
+- Programando no Windows
 
 #### Um pouco sobre o Linux
 - Comandos basicos Linux
+- Comandos importantes 
+- Onde aprender Linux
 
 #### Montando sua infraestrutura usando Docker
-- Conhecendo um pouco sobre DevOps com Docker
-
-
-### Aula 02 - Primeiro programa em Python
+- Conhecendo um pouco sobre DevOps 
+- Conhecendo o Docker
 
 #### Primeiro Hello World
-- Desenvolver o primeiro hello world
+- Desenvolvendo o primeiro hello world
+
+### Aula 02 - Iniciando o desenvolvimento com Python
+
+#### Criando primeiro programa
+- Criando primeiro programa em Python
 
 #### Trabalhando com variaveis
 - Conhecendo variaveis
@@ -65,22 +75,30 @@ Python
 - Conhecendo o escopo
 
 #### Trabalhando com operadores logicos
-- Aprenda a diferença entre Menor ,maior ou igual , menor ou igual, maior e menor.
+- Conhecendo o operador Menor 
+- Conhecendo o operador maior ou igual 
+- Conhecendo o operador menor ou igual
+- Conhecendo o operador maior 
+- Conhecendo o operador menor.
 
 #### True ou False
 - Validando informações
 
+
 ### Aula 05 - Listas e matrizes
 
 #### Trabalhando com Listas
-- Aprenda a trabalhar e tratar listas
+- Aprenda a trabalhar com listas
+- Aprenda a tratar listas
 
 #### Trabalhando com Dicionarios
-- Aprenda a trabalhar e tratar dicionarios
+- Aprenda a trabalhar com dicionarios
+- Aprenda a tratar dicionarios
 - Usando matrizes esparsas
 
 #### Usando listas em nossos projetos
 - Como as listas podem ajudar nossos projetos
+
 
 ### Aula 06 - Trabalhando com Operadores e Loops
 
@@ -100,17 +118,23 @@ Python
 
 ### Aula 07 - Conhecendo Funções e modulos
 #### Funções
+- Aprenda o que é uma função 
 - Criando suas funções
 - Criando funções recursiva
 - Criando funções parentesco
 
 #### Conhecendo modulos
+- Aprenda o que é um modulo
 - Usando modulos 
-- Criando seus proprios modulos
+
+#### Criando seus proprios modulos
+- Aprenda a criar seus proprios modulos
 - Importando modulos
+- Conhecendo o PIP
 
 #### Mão na massa
 - Importando modulo e usando modulos existentes
+
 
 ### Aula 08 - Orientação a objetos e Modulos
 
@@ -122,10 +146,11 @@ Python
 - Conhecendo as heranças
 
 #### Aprendendo sobre atributos e funções protegidas
-- Saiba mais sobre atributos protegidos e funções protegidas
+- Saiba mais sobre atributos protegidos 
+- Saiba mais sobre funções protegidas
+
 
 ### Aula 09 - Exceções e trabalhando arquivos
-
 #### Exceções
 - A importancia das exceções
 - Trabalhando com execeções
@@ -146,8 +171,8 @@ Python
 #### Mão na massa
 - Criando sistema simples usando arquivos
 
-### Aula 10 - Banco de dados e primeiro site
 
+### Aula 10 - Banco de dados e primeiro site
 #### Trabalhando com banco de dados
 - A importancia de usar um banco de dados
 
@@ -156,6 +181,7 @@ Python
 - Criando tabela 
 - Conhecendo o insert
 - Conhecendo o select
+- Conhecendo o delete
 - Listando resposta do banco de dados
 
 #### Conhecendo o Mysql
@@ -163,6 +189,7 @@ Python
 - Criando tabela 
 - Conhecendo o insert
 - Conhecendo o select
+- Conhecendo o delete
 - Listando resposta do banco de dados
 
 
